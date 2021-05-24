@@ -1,4 +1,4 @@
-upon("allReady").then(function()
+upon("allReady",function()
 {
     alert("hello world")
 })
