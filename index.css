@@ -14,12 +14,17 @@ sect
     display: block;
     position: relative;
     box-sizing: border-box;
-    background-color: hsla(0,0%,20%,1);
+    background-color: hsla(50%,50%,20%,1);
     padding: 2rem;
-    border: 5px solid limegreen;
+    border: 5px solid slategrey;
     border-radius: 1rem;
     margin: 2rem;
     box-shadow: 0px 0px 20px hsla(0, 0%, 0%, 0.5);
+}
+
+p
+{
+    font-size: 2rem;
 }
 
 #heading
