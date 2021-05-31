@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   viewBox="0 0 508.00001 285.74999"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="artwork.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="732.2653"
+       y="90.845799"
+       width="191.26895"
+       height="100.8504"
+       id="rect1017" />
+    <rect
+       x="631.95247"
+       y="53.141131"
+       width="162.79202"
+       height="14.587552"
+       id="rect1011" />
+    <rect
+       x="640.87936"
+       y="15.838187"
+       width="76.39446"
+       height="22.715392"
+       id="rect993" />
+    <rect
+       x="62.218988"
+       y="231.93563"
+       width="135.11851"
+       height="49.399785"
+       id="rect965" />
+    <rect
+       x="48.149054"
+       y="287.07933"
+       width="69.019911"
+       height="14.529966"
+       id="rect957" />
+    <rect
+       x="315.52067"
+       y="7.8124998e-06"
+       width="54.369271"
+       height="22.842446"
+       id="rect951" />
+    <rect
+       x="393.42524"
+       y="150.56864"
+       width="70.09423"
+       height="14.036807"
+       id="rect933" />
+    <rect
+       x="137.43896"
+       y="59.966737"
+       width="200.37922"
+       height="31.011256"
+       id="rect903" />
+    <rect
+       x="75.129304"
+       y="38.553578"
+       width="6.249953"
+       height="38.55357"
+       id="rect887" />
+    <rect
+       x="128.65006"
+       y="7.8124998e-06"
+       width="73.426595"
+       height="20.93709"
+       id="rect871" />
+    <rect
+       x="16.383783"
+       y="7.8124998e-06"
+       width="81.432924"
+       height="21.35797"
+       id="rect865" />
+    <rect
+       x="128.65006"
+       y="7.8124998e-06"
+       width="73.426595"
+       height="20.93709"
+       id="rect879" />
+    <rect
+       x="315.52067"
+       y="7.8124998e-06"
+       width="54.369271"
+       height="22.842446"
+       id="rect973" />
+    <rect
+       x="315.52067"
+       y="7.8124998e-06"
+       width="54.369271"
+       height="22.842446"
+       id="rect979" />
+    <rect
+       x="315.52067"
+       y="7.8124998e-06"
+       width="54.369271"
+       height="22.842446"
+       id="rect985" />
+    <rect
+       x="315.52067"
+       y="7.8124998e-06"
+       width="54.369271"
+       height="22.842446"
+       id="rect1115" />
+    <rect
+       x="315.52067"
+       y="7.8124998e-06"
+       width="54.369271"
+       height="22.842446"
+       id="rect1121" />
+    <rect
+       x="315.52067"
+       y="7.8124998e-06"
+       width="54.369271"
+       height="22.842446"
+       id="rect1127" />
+    <rect
+       x="315.52067"
+       y="7.8124998e-06"
+       width="54.369271"
+       height="22.842446"
+       id="rect1133" />
+    <rect
+       x="315.52067"
+       y="7.8124998e-06"
+       width="54.369271"
+       height="22.842446"
+       id="rect1139" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.36440298"
+     inkscape:cx="2356.6039"
+     inkscape:cy="2095.988"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="694"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="-99.785716,247.19642"
+       orientation="0,-1"
+       id="guide837" />
+    <sodipodi:guide
+       position="0,163.28571"
+       orientation="1,0"
+       id="guide839" />
+    <sodipodi:guide
+       position="508.00001,216.95833"
+       orientation="1,0"
+       id="guide841" />
+    <sodipodi:guide
+       position="46.869049,285.74999"
+       orientation="0,-1"
+       id="guide843" />
+    <sodipodi:guide
+       position="188.16819,-1.3293301"
+       orientation="0,-1"
+       id="guide845" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#550000;fill-opacity:0.451425;stroke-width:0.0738264;stroke-opacity:0.987887"
+       id="rect833"
+       width="508"
+       height="247.19643"
+       x="0"
+       y="38.553577" />
+    <rect
+       style="fill:#008080;fill-opacity:0.451425;stroke-width:0.079375;stroke-opacity:0.987887"
+       id="rect835"
+       width="508"
+       height="39.6875"
+       x="0"
+       y="0" />
+    <text
+       xml:space="preserve"
+       id="text863"
+       style="line-height:1.25;font-family:'Riding Monday';font-size:10.58333333px;-inkscape-font-specification:'Riding Monday';white-space:pre;shape-inside:url(#rect865);" />
+    <text
+       xml:space="preserve"
+       id="text869"
+       style="line-height:1.25;font-family:'Riding Monday';font-size:10.58333333px;-inkscape-font-specification:'Riding Monday';white-space:pre;shape-inside:url(#rect871);" />
+    <text
+       xml:space="preserve"
+       id="text877"
+       style="line-height:1.25;font-family:'Riding Monday';font-size:10.58333333px;-inkscape-font-specification:'Riding Monday';white-space:pre;shape-inside:url(#rect879);" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.8595px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';fill:#550000;stroke-width:1.25352"
+       x="9.4879456"
+       y="43.280148"
+       id="text883"
+       transform="scale(1.5353666,0.65131024)"><tspan
+         sodipodi:role="line"
+         id="tspan881"
+         x="9.4879456"
+         y="43.280148"
+         style="font-size:11.8595px;fill:#000000;stroke-width:1.25352">HOME</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text885"
+       style="line-height:1.25;font-family:'Riding Monday';font-size:10.58333333px;-inkscape-font-specification:'Riding Monday';white-space:pre;shape-inside:url(#rect887);" />
+    <text
+       xml:space="preserve"
+       style="font-size:22.6653px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';stroke-width:0.566633"
+       x="61.622597"
+       y="70.713112"
+       id="text899"><tspan
+         sodipodi:role="line"
+         x="61.622597"
+         y="70.713112"
+         style="stroke-width:0.566633"
+         id="tspan907"></tspan><tspan
+         sodipodi:role="line"
+         x="61.622597"
+         y="99.044739"
+         style="stroke-width:0.566633"
+         id="tspan911"></tspan><tspan
+         sodipodi:role="line"
+         x="61.622597"
+         y="127.37637"
+         style="stroke-width:0.566633"
+         id="tspan913"></tspan><tspan
+         sodipodi:role="line"
+         x="61.622597"
+         y="155.70799"
+         style="stroke-width:0.566633"
+         id="tspan915">- Bio:</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text901"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';text-align:center;white-space:pre;shape-inside:url(#rect903)"
+       x="42.559681"
+       y="0"
+       transform="matrix(2.1328893,0,0,2.1328893,-271.81734,-84.81006)"><tspan
+         x="202.9657"
+         y="70.156805"><tspan
+           style="font-size:11.2889px">BENVENUTA!
+</tspan></tspan><tspan
+         x="237.62891"
+         y="83.631011"><tspan
+           style="text-align:center;text-anchor:middle">
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="137.43945"
+         y="100.53161"><tspan
+           dx="0 3.0902407"
+           style="text-align:center;text-anchor:middle">&quot;B</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';stroke-width:0.264583"
+       x="205.10234"
+       y="101.51984"
+       id="text919"><tspan
+         sodipodi:role="line"
+         id="tspan917"
+         x="205.10234"
+         y="101.51984"
+         style="stroke-width:0.264583">blah blah</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:15.0192px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';stroke-width:0.37548"
+       x="60.42944"
+       y="190.70473"
+       id="text927"><tspan
+         sodipodi:role="line"
+         id="tspan925"
+         x="60.42944"
+         y="190.70473"
+         style="stroke-width:0.37548">&quot;This is Me&quot;</tspan></text>
+    <rect
+       style="fill:#550000;fill-opacity:0.451425;stroke-width:0.079375;stroke-opacity:0.987887"
+       id="rect929"
+       width="107.39718"
+       height="102.48384"
+       x="187.34831"
+       y="156.05055" />
+    <text
+       xml:space="preserve"
+       id="text931"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';white-space:pre;shape-inside:url(#rect933);"
+       transform="matrix(1.4127169,0,0,1.4127169,-218.99313,-74.147153)"
+       x="94.716354"
+       y="0"><tspan
+         x="393.42578"
+         y="160.12145"><tspan
+           style="shape-inside:url(#rect933)">- Check it Out:</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';stroke-width:0.264583"
+       x="357.03262"
+       y="195.78119"
+       id="text939"><tspan
+         sodipodi:role="line"
+         id="tspan937"
+         x="357.03262"
+         y="195.78119"
+         style="stroke-width:0.264583">Gitgub link</tspan><tspan
+         sodipodi:role="line"
+         x="357.03262"
+         y="209.01031"
+         style="stroke-width:0.264583"
+         id="tspan941" /><tspan
+         sodipodi:role="line"
+         x="357.03262"
+         y="222.23944"
+         style="stroke-width:0.264583"
+         id="tspan943">Ahim'sa Yoga link</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20.3197px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';stroke-width:0.507993"
+       x="216.09277"
+       y="201.88483"
+       id="text947"><tspan
+         id="tspan945"
+         x="216.09277"
+         y="201.88483"
+         style="stroke-width:0.507993"
+         sodipodi:role="line">pic</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text949"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';white-space:pre;shape-inside:url(#rect951);"
+       transform="matrix(1.1511134,0,0,1.1511134,88.124885,15.900624)"><tspan
+         x="315.52148"
+         y="9.5530923"><tspan
+           style="fill:#6c5353">CV</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text955"
+       style="line-height:1.25;font-family:'Riding Monday';font-size:10.58333333px;-inkscape-font-specification:'Riding Monday';white-space:pre;shape-inside:url(#rect957);" />
+    <text
+       xml:space="preserve"
+       id="text963"
+       style="line-height:1.25;font-family:'Riding Monday';font-size:10.58333333px;-inkscape-font-specification:'Riding Monday';white-space:pre;shape-inside:url(#rect965);" />
+    <text
+       xml:space="preserve"
+       id="text971"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';white-space:pre;shape-inside:url(#rect973);"
+       transform="matrix(1.1511134,0,0,1.1511134,-225.26029,18.761976)"><tspan
+         x="315.52148"
+         y="9.5530923"><tspan
+           style="fill:#6c5353">GALLERY</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text977"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';white-space:pre;shape-inside:url(#rect979);"
+       transform="matrix(1.1511134,0,0,1.1511134,-0.46796411,15.577627)"><tspan
+         x="315.52148"
+         y="9.5530923"><tspan
+           style="fill:#6c5353">CONTACT</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text983"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';white-space:pre;shape-inside:url(#rect985);"
+       transform="matrix(1.1511134,0,0,1.1511134,-275.17283,18.314894)"><tspan
+         x="315.52148"
+         y="9.5530923"><tspan
+           style="fill:#6c5353">BLOG</tspan></tspan></text>
+    <rect
+       style="fill:#550000;fill-opacity:0.451425;stroke-width:0.0738264;stroke-opacity:0.987887"
+       id="rect987"
+       width="508"
+       height="247.19643"
+       x="606.44641"
+       y="38.553577" />
+    <rect
+       style="fill:#008080;fill-opacity:0.451425;stroke-width:0.079375;stroke-opacity:0.987887"
+       id="rect989"
+       width="508"
+       height="39.6875"
+       x="606.44641"
+       y="-1.1339223" />
+    <text
+       xml:space="preserve"
+       id="text991"
+       style="line-height:1.25;font-family:'Riding Monday';font-size:10.58333333px;-inkscape-font-specification:'Riding Monday';white-space:pre;shape-inside:url(#rect993);" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.7222px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';stroke-width:0.418057"
+       x="640.65607"
+       y="25.450514"
+       id="text999"><tspan
+         sodipodi:role="line"
+         id="tspan997"
+         x="640.65607"
+         y="25.450514"
+         style="stroke-width:0.418057">BLOG</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20.3052px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';stroke-width:0.507633"
+       x="771.54132"
+       y="24.63146"
+       id="text1003"><tspan
+         sodipodi:role="line"
+         id="tspan1001"
+         x="771.54132"
+         y="24.63146"
+         style="fill:#6c5353;stroke-width:0.507633">Life and Stuff</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20.5px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';stroke-width:0.512502"
+       x="968.01154"
+       y="26.77223"
+       id="text1007"><tspan
+         sodipodi:role="line"
+         id="tspan1005"
+         x="968.01154"
+         y="26.77223"
+         style="fill:#6c5353;stroke-width:0.512502">Spina Bifida</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1009"
+       style="line-height:1.25;font-family:'Riding Monday';font-size:10.58333333px;-inkscape-font-specification:'Riding Monday';white-space:pre;shape-inside:url(#rect1011);" />
+    <text
+       xml:space="preserve"
+       id="text1015"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';white-space:pre;shape-inside:url(#rect1017);"
+       transform="matrix(1.6430632,0,0,1.6583859,-545.25906,-47.154293)"><tspan
+         x="732.26562"
+         y="100.3988"><tspan
+           style="font-size:3.41941px"> 
+</tspan></tspan><tspan
+         x="732.26562"
+         y="113.62792"><tspan
+           style="font-size:5.12912px">I</tspan><tspan
+           style="font-size:6.83882px"> created this 'blogger' myself; as part of my programming journey. </tspan></tspan><tspan
+         x="732.26562"
+         y="126.85705"><tspan
+           style="font-size:6.83882px">I love a challenge.
+</tspan></tspan><tspan
+         x="732.26562"
+         y="140.08617"><tspan
+           style="font-size:6.83882px">
+</tspan></tspan><tspan
+         x="732.26562"
+         y="153.3153"><tspan
+           style="font-size:6.83882px"> Herewith, I intend to document snippets of adventures and </tspan></tspan><tspan
+         x="732.26562"
+         y="166.54443"><tspan
+           style="font-size:6.83882px">experiences in this crazy, beautiful Life of mine! 
+</tspan></tspan><tspan
+         x="732.26562"
+         y="179.77355"><tspan>
+</tspan></tspan><tspan
+         x="732.26562"
+         y="193.00268"><tspan> </tspan></tspan></text>
+    <rect
+       style="fill:#782121;fill-opacity:0.451425;stroke-width:0.079375;stroke-opacity:0.987887"
+       id="rect1051"
+       width="159.33585"
+       height="74.18084"
+       x="748.25604"
+       y="53.548351" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.457px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';stroke-width:0.436425"
+       x="807.78363"
+       y="86.902428"
+       id="text1055"><tspan
+         sodipodi:role="line"
+         id="tspan1053"
+         x="807.78363"
+         y="86.902428"
+         style="font-size:19.7556px;stroke-width:0.436425">pic</tspan></text>
+    <rect
+       style="fill:#550000;fill-opacity:0.451425;stroke-width:0.0738264;stroke-opacity:0.987887"
+       id="rect1065"
+       width="508"
+       height="247.19643"
+       x="605.38281"
+       y="313.46652" />
+    <rect
+       style="fill:#550000;fill-opacity:0.451425;stroke-width:0.0738264;stroke-opacity:0.987887"
+       id="rect1067"
+       width="508"
+       height="247.19643"
+       x="1.3888914e-05"
+       y="310.44153" />
+    <rect
+       style="fill:#008080;fill-opacity:0.451425;stroke-width:0.079375;stroke-opacity:0.987887"
+       id="rect1069"
+       width="508"
+       height="39.6875"
+       x="605.38281"
+       y="313.46652" />
+    <rect
+       style="fill:#008080;fill-opacity:0.451425;stroke-width:0.079375;stroke-opacity:0.987887"
+       id="rect1071"
+       width="508"
+       height="39.6875"
+       x="1.3888914e-05"
+       y="310.44153" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.7222px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';stroke-width:0.418057"
+       x="27.364134"
+       y="339.09622"
+       id="text1081"><tspan
+         sodipodi:role="line"
+         id="tspan1079"
+         x="27.364134"
+         y="339.09622"
+         style="fill:#6c5353;stroke-width:0.418057">BLOG</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:23.7542px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';stroke-width:0.593858"
+       x="121.84364"
+       y="343.34741"
+       id="text1085"><tspan
+         sodipodi:role="line"
+         id="tspan1083"
+         x="121.84364"
+         y="343.34741"
+         style="fill:#000000;stroke-width:0.593858">Life and Stuff</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.4813px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';stroke-width:0.637035"
+       x="324.64288"
+       y="342.28876"
+       id="text1089"><tspan
+         sodipodi:role="line"
+         id="tspan1087"
+         x="324.64288"
+         y="342.28876"
+         style="fill:#6c5353;stroke-width:0.637035">Spina Bifida</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22.1188px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';stroke-width:0.552974"
+       x="774.55847"
+       y="342.56821"
+       id="text1093"><tspan
+         sodipodi:role="line"
+         id="tspan1091"
+         x="774.55847"
+         y="342.56821"
+         style="fill:#6c5353;stroke-width:0.552974">Life and Stuff</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.7222px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';stroke-width:0.418057"
+       x="640.52008"
+       y="339.85767"
+       id="text1097"><tspan
+         sodipodi:role="line"
+         id="tspan1095"
+         x="640.52008"
+         y="339.85767"
+         style="fill:#6c5353;stroke-width:0.418057">BLOG</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22.9182px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';stroke-width:0.572958"
+       x="961.11334"
+       y="347.49249"
+       id="text1101"><tspan
+         sodipodi:role="line"
+         id="tspan1099"
+         x="961.11334"
+         y="347.49249"
+         style="fill:#000000;stroke-width:0.572958">Spina Bifida</tspan></text>
+    <rect
+       style="fill:#550000;fill-opacity:0.451425;stroke-width:0.0738264;stroke-opacity:0.987887"
+       id="rect1103"
+       width="508"
+       height="247.19643"
+       x="2.7777827e-05"
+       y="611.92371" />
+    <rect
+       style="fill:#550000;fill-opacity:0.451425;stroke-width:0.0738264;stroke-opacity:0.987887"
+       id="rect1105"
+       width="508"
+       height="247.19643"
+       x="599.81256"
+       y="614.1734" />
+    <rect
+       style="fill:#008080;fill-opacity:0.451425;stroke-width:0.079375;stroke-opacity:0.987887"
+       id="rect1107"
+       width="508"
+       height="39.6875"
+       x="4.5776367e-05"
+       y="611.92371" />
+    <rect
+       style="fill:#008080;fill-opacity:0.451425;stroke-width:0.079375;stroke-opacity:0.987887"
+       id="rect1109"
+       width="508"
+       height="39.6875"
+       x="599.8125"
+       y="614.1734" />
+    <text
+       xml:space="preserve"
+       id="text1113"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';white-space:pre;shape-inside:url(#rect1115);"
+       transform="matrix(1.1511134,0,0,1.1511134,157.09862,164.86855)"><tspan
+         x="315.52148"
+         y="9.5530923"><tspan
+           style="fill:#6c5353">CONTACT</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1119"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';white-space:pre;shape-inside:url(#rect1121);"
+       transform="matrix(1.1511134,0,0,1.1511134,-56.064173,628.21417)"><tspan
+         x="315.52148"
+         y="9.5530923"><tspan
+           style="shape-inside:url(#rect1121)">CONTACT</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1125"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';white-space:pre;shape-inside:url(#rect1127);"
+       transform="matrix(1.1511134,0,0,1.1511134,610.29954,630.87224)"><tspan
+         x="315.52148"
+         y="9.5530923"><tspan
+           style="fill:#6c5353">CONTACT</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1131"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';white-space:pre;shape-inside:url(#rect1133);"
+       transform="matrix(1.1511134,0,0,1.1511134,88.124885,15.900624)"><tspan
+         x="315.52148"
+         y="9.5530923"><tspan
+           style="fill:#6c5353">CV</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1137"
+       style="font-size:10.5833px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';white-space:pre;shape-inside:url(#rect1139);"
+       transform="matrix(1.1511134,0,0,1.1511134,187.41135,73.399436)"><tspan
+         x="315.52148"
+         y="9.5530923"><tspan
+           style="fill:#6c5353">CV</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.8595px;line-height:1.25;font-family:'Riding Monday';-inkscape-font-specification:'Riding Monday';fill:#550000;stroke-width:1.25352"
+       x="14.834498"
+       y="976.37616"
+       id="text1143"
+       transform="scale(1.5353666,0.65131024)"><tspan
+         sodipodi:role="line"
+         id="tspan1141"
+         x="14.834498"
+         y="976.37616"
+         style="font-size:11.8595px;fill:#6c5353;stroke-width:1.25352">HOME</tspan></text>
+  </g>
+</svg>

@@ -1,4 +1,4 @@
-upon("allReady",function()
-{
-    alert("hello world")
-})
+// document.getElementsByTagName("iframe")[0].addEventListener("load",function()
+// {
+//     let subd = this.contentDocument;
+// });
